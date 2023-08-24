@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Nilima jahan Nusrat",
+        "email": "nilima43@aiub.edu",
+        "mobilenumber": "01567439821",
+        "address": "Gulshan, Dhaka, Bangladesh",
+        "username": "Nusrat43",
+        "password": "1234567#",
+        "gender": "Female",
+        "dob": "2005-07-05",
+        "profilepicpath": "profilepic\/1.jpg"
+    },
+    {
+        "name": "Tipu Kar",
+        "email": "tipu33@aiub.edu",
+        "mobilenumber": "01754321560",
+        "address": "Mohammadpur, Dhaka",
+        "username": "Tipu33",
+        "password": "1234567#",
+        "gender": "Male",
+        "dob": "2002-07-05",
+        "profilepicpath": "profilepic\/1.jpg"
+    },
+    {
+        "name": "Rajon Das",
+        "email": "rajon43@aiub.edu",
+        "mobilenumber": "01954367821",
+        "address": "Dhanmondi, Dhaka",
+        "username": "Rajon43",
+        "password": "1234567#",
+        "gender": "Male",
+        "dob": "2022-07-05",
+        "profilepicpath": "profilepic\/1.jpg"
+    }
+]
